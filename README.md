@@ -1,5 +1,5 @@
 # Nations - Orchestrator
 
-Repository for the Orchestrator for my Discord server, Nations.
+Nations is a game on Discord *mostly* built for High Seas around country management, deception and warfare.
 
-Publicized for Hack Club High Seas :3
+Orchestrator (the code here) is the code for the bot running it all!
